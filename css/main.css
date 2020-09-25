@@ -1,9 +1,9 @@
 body {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Titillium Web', arial;
 }
 
 .navbar-brand {
-  font-size: 20px;
+  font-size: 10px;
   color: #000;
   font-weight: bold;
 }
@@ -12,7 +12,7 @@ body {
   background: #f1f1f1;
   padding: 50px 0 30px 0;
   text-align:center;
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 footer {
